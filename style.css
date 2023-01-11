@@ -5,11 +5,11 @@
   
   @keyframes float {
     from, to {
-      transform: translateY(-0%);
+      transform: translateY(9%);
     }
     
     50% {    
-      transform: translateY(-3%);
+      transform: translateY(-6%);
     }
   }
   
@@ -40,7 +40,7 @@
   .word {
     color: white;
     font-size: clamp(2rem, 8vw, 10rem);
-    font-family: "Rubik", sans-serif;
+    font-family: 'Sofia Sans', sans-serif;
     margin: 0rem;
     text-transform: uppercase;
     transition: opacity 250ms ease;
