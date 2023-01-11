@@ -28,8 +28,11 @@
     background-color: black;
     margin: 0rem;
     overflow: hidden;
-    display: grid;
-    place-items: center;
+    /* display: grid;
+    place-items: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   
   .line {
